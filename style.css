@@ -1,0 +1,101 @@
+body {
+            font-family: sans-serif;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            padding: 50px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 1000px;
+            background: white;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        caption {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 20px;
+            color: #ff6600;
+        }
+
+        th {
+            background-color: #ef9000;
+            color: rgb(255, 255, 255);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 25px 15px; 
+        }
+
+        td {
+            text-align: center;
+            border-bottom: 2px solid #ff0000;
+            padding: 22px 15px; 
+            font-size: 18px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #ff9f64;
+        }
+
+        tr:hover {
+            background-color: #ffd57c;
+            transition: 0.3s;
+        }
+
+        .round-num {
+            font-weight: bold;
+            color: #e1e1e1;
+            width: 120px;
+        }body {
+            font-family: sans-serif;
+            background-color: white;
+            display: flex;
+            justify-content: center;
+            padding: 50px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 1000px;
+            background: white;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+
+        caption {
+            font-size: 24px;
+            font-weight: bold;
+            padding: 20px;
+            color: #ff6600;
+        }
+
+        th {
+            background-color: #ef9000;
+            color: rgb(255, 255, 255);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            padding: 25px 15px; 
+        }
+
+        td {
+            text-align: center;
+            border-bottom: 2px solid #ff0000;
+            padding: 22px 15px; 
+            font-size: 18px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #ff9f64;
+        }
+
+        tr:hover {
+            background-color: #ffd57c;
+            transition: 0.3s;
+        }
+
+        .round-num {
+            font-weight: bold;
+            color: #e1e1e1;
+            width: 120px;
+        }
